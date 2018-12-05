@@ -1,3 +1,3 @@
-# Web-developer-bootcamp_
+# Web-developer-bootcamp
 
-the very first try!
+All small projects for Web developer bootcamp
